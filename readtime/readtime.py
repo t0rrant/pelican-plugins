@@ -6,7 +6,7 @@ from html.parser import HTMLParser  #use html.parser for Python 3.6
 
 
 # http://en.wikipedia.org/wiki/Words_per_minute
-WPM = 230.0
+WPM = 180.0
 
 
 class MLStripper(HTMLParser):
